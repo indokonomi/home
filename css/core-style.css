@@ -360,12 +360,12 @@ img {
 .top-header {
     position: relative;
     z-index: 1;
-    height: 70px;
+    height: 60px;
     background-color: #1d1d1d;
 }
 
 .breaking-news-title {
-    font-size: 18px;
+    font-size: 12px;
     color: #fff;
     text-transform: uppercase;
     margin-bottom: 0;
@@ -416,7 +416,7 @@ img {
 
 #stockNewsTicker.ticker ul li a {
     color: #fff;
-    font-size: 14px;
+    font-size: 10px;
 }
 
 .single-stock-report .stock-values span {
@@ -453,7 +453,7 @@ img {
     color: #ff0303;
     position: relative;
     z-index: 1;
-    padding-left: 30px;
+    padding-left: 50px;
 }
 
 .single-stock-report .stock-index.minus-index h4:before,
@@ -463,9 +463,9 @@ img {
     position: absolute;
     z-index: 1;
     top: 0;
-    left: -10px;
+    left: 5px;
     font-family: 'Pe-icon-7-stroke';
-    font-size: 44px;
+    font-size: 40px;
     line-height: 32px;
 }
 
@@ -483,7 +483,7 @@ img {
 .middle-header {
     position: relative;
     z-index: 1;
-    height: 160px;
+    height: 95px;
     background-color: #fff;
 }
 
